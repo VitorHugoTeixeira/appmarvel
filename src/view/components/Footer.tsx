@@ -1,4 +1,4 @@
-import { Rodape, ListaFooter, ItemFooter, RedesSociais, IconeSocial, ImgFooter } from '../../styles/style'
+import { Rodape, ListaFooter, ItemFooter, RedesSociais, IconeSocial, ImgFooter } from '../styles/style'
 
 
 const Footer = () => {

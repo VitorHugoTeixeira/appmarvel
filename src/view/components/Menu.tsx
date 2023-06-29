@@ -1,4 +1,4 @@
-import { Nav, ItemLista, Lista } from '../../styles/style'
+import { Nav, ItemLista, Lista } from '../styles/style'
 
 const Menu = () => {
     return(

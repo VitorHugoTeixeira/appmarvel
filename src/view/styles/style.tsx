@@ -6,7 +6,6 @@ const Nav = styled.nav`
 const Lista = styled.ul`
     
 `
-
 const ItemLista = styled.li`
     
 `

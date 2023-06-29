@@ -1,4 +1,4 @@
-import { CampoPesquisa, BotaoPesquisa    } from "../../styles/style"
+import { CampoPesquisa, BotaoPesquisa } from '../styles/style'
 
 const Search = () => {
     return (
