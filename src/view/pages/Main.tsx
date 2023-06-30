@@ -9,7 +9,7 @@ interface State {
 
 }
 
-let transacao = new Transaction(12, 'skdjflsk', 1)
+let transacao = new Transaction('1')
 
 class Main extends React.Component {
 
@@ -18,7 +18,7 @@ class Main extends React.Component {
     }
 
     render() {
-        {console.log(transacao.generateURL(transacao))}
+        {console.log(transacao.getCharacterToPage(transacao, 14, 0))}
         try {
             return (
                 <>
